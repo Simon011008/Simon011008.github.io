@@ -19,6 +19,7 @@ Batch size is 128
 
 Batch size is 256
 
+
 The larger the Batch size, the more data is processed in parallel.
 As can be seen from the graph, GPU power increases when more data is processed in parallel. 
 This is because GPU cores can execute identical instructions simultaneously, making them highly efficient for handling larger, parallel workloads.
