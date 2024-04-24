@@ -1,4 +1,4 @@
-Deep Learning Running Speed
+Deep Learning Processing Speed
 ====
 GPU VS CPU
 ------
