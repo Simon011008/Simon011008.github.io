@@ -11,4 +11,11 @@ The GPU contains hundreds to thousands of small cores, which makes it very effic
 ![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/DP1.png)
 GPU activity graph, the batch size is 64
 
+![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/75%.png)
+Batch size is 128
 
+![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/256.png)
+Batch size is 256
+
+The larger the Batch size, the more data is processed in parallel.
+As can be seen from the graph, GPU power increases when more data is processed in parallel.
