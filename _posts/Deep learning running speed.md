@@ -1,4 +1,3 @@
-![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/logo.png)
 Deep Learning Running Speed
 ====
 GPU VS CPU
@@ -9,13 +8,22 @@ When running deep learning tasks, GPUs are typically much faster than CPUs. The 
 The GPU contains hundreds to thousands of small cores, which makes it very efficient at handling parallel tasks. Many operations in deep learning are well suited to parallelization. Therefore, GPUs are very suitable for running deep learning.
 
 ![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/DP1.png)
+
 GPU activity graph, the batch size is 64
 
 ![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/128.png)
+
 Batch size is 128
 
 ![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/256.png)
+
 Batch size is 256
 
 The larger the Batch size, the more data is processed in parallel.
-As can be seen from the graph, GPU power increases when more data is processed in parallel.
+As can be seen from the graph, GPU power increases when more data is processed in parallel. 
+This is because GPU cores can execute identical instructions simultaneously, making them highly efficient for handling larger, parallel workloads.
+
+
+
+
+![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/logo.png)
