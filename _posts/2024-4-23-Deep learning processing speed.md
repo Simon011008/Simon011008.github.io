@@ -30,4 +30,4 @@ This is because GPU cores can execute identical instructions simultaneously, mak
 
 Hao
 
-![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/logo.png)
+![](/images/logo.png "fast.ai's logo")
