@@ -24,6 +24,8 @@ As can be seen from the graph, GPU power increases when more data is processed i
 This is because GPU cores can execute identical instructions simultaneously, making them highly efficient for handling larger, parallel workloads.
 
 
+Hao
+
 
 
 ![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/logo.png)
