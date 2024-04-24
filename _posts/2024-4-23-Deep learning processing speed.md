@@ -7,7 +7,7 @@ When running deep learning tasks, GPUs are typically much faster than CPUs. The 
 
 The GPU contains hundreds to thousands of small cores, which makes it very efficient at handling parallel tasks. Many operations in deep learning are well suited to parallelization. Therefore, GPUs are very suitable for running deep learning.
 
-![](/images/DP1.png)
+![](/images/DP1.png "GPU activity graph")
 
 GPU activity graph, the batch size is 64
 
