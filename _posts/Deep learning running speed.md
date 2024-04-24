@@ -10,4 +10,5 @@ The GPU contains hundreds to thousands of small cores, which makes it very effic
 
 ![Alt text](https://github.com/Simon011008/Simon011008.github.io/blob/master/images/DP1.png)
 GPU activity graph, the batch size is 64
-#####
+
+
